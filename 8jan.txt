@@ -4,8 +4,7 @@ Bug 6947: All Browsers -Test Directory -Synonyms: Sorting is not Working properl
 Bug 6946: Test Directory - Listing page Alignment is Not Proper.--Raised
 Bug 6949: About - Submenu's : Technical and Support Department - Hyperlink & Navigation .--Raised
 Bug 6950: All Browsers -Technical Departments - Department page Content is not proper
-Bug 6948: Homepage - UI Issues
-
+Bug 6948: Homepage - UI
 
 
 Advance search
@@ -89,10 +88,10 @@ In Contact Information This -  "(510) 231-5463" need to get added
 
 
 
-2304×1440
+2304Ã—1440
 2560 x 1440 ==> 2K
-2560×1600
-2880×1800
+2560Ã—1600
+2880Ã—1800
 3000 x 2000
 3200 x 1800 ==> 3K
 3840 x 2160 ==> 4K
