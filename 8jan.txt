@@ -1,0 +1,99 @@
+Bug 6769: Feedback - not getting submitted ---closed
+
+Bug 6947: All Browsers -Test Directory -Synonyms: Sorting is not Working properly For RILIS Column --Raised
+Bug 6946: Test Directory - Listing page Alignment is Not Proper.--Raised
+Bug 6949: About - Submenu's : Technical and Support Department - Hyperlink & Navigation .--Raised
+Bug 6950: All Browsers -Technical Departments - Department page Content is not proper
+Bug 6948: Homepage - UI Issues
+
+
+
+Advance search
+height
+autosuggestion & mail (vd)
+point
+line arup ponly in ie
+edge-search issue
+
+Dashboard 
+
+Prenatal : all pretal link 
+toxi- 2 urine
+Hematology - bold issue(refer flow for sub heading)
+Flow : staff contact info
+cytology -dot issue
+blood - contact num miss
+
+1. Log into Lablink with valid credentials (T112841/8PKWn15h, T112837/NUqgt43R)
+2. Go to department page under Technical Departments.
+3.Check Body content 
+
+Actual Results : 
+
+Cytology :
+1.Initially it showing  as Load more, on click show less is displayed, on clicking show less, show more is Getting displayed 
+2."Please see individual sections of the LabLink test directory for requirements specific to each specimen type"-  As per Legacy at End Of Statement DOT is Not Present
+
+Prenatal :
+All Prenatal Link is not navigating to correct page
+ 
+Toxicology :
+"2Urine Drug Testing Guidelines for Non-Malignant Pain"( need to remove 2 infront of urine as per legacy)
+
+Hematology :
+1.Bold Title is Missing in-"Specimen Requirement" , "Specimen Rejection" , "Characteristics that may affect test results"  "Stored Specimen Stability" (pls refer subheading in flow cytometry)
+2.In "Specimen Rejection" Title->3rd point As Per Legacy End of Statement dot is Not Present
+
+Flow Cytometry :
+Staff contact Information Has Been present in MD Contact Information - As Per Legacy Its Should Not Present
+
+Blood Bank :
+In Contact Information This -  "(510) 231-5463" is MIssing
+
+
+Expected Results :
+Cytology :
+1.The combination of show more and show less (or) Load more and load less need to get displayed 
+2."Please see individual sections of the LabLink test directory for requirements specific to each specimen type"-  As per Legacy at End Of Statement DOT Should be Present
+
+Prenatal :
+All Prenatal Link Should be navigated to Test directory listing page with prenatal test displayed
+
+Toxicology :
+"2Urine Drug Testing Guidelines for Non-Malignant Pain"(  2 infront of urine should be removed as per legacy)
+
+Hematology :
+1."Specimen Requirement" , "Specimen Rejection" , "Characteristics that may affect test results"  "Stored Specimen Stability" - Need to Bold These subheading.
+2.In "Specimen Rejection" Title->3rd point As Per Legacy End of Statement dot need to be added
+
+Flow Cytometry :
+Staff contact Information Has Been present in MD Contact Information - As Per Legacy Its need to be removed
+
+Blood Bank :
+In Contact Information This -  "(510) 231-5463" need to get added
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2304×1440
+2560 x 1440 ==> 2K
+2560×1600
+2880×1800
+3000 x 2000
+3200 x 1800 ==> 3K
+3840 x 2160 ==> 4K
+
